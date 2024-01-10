@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T03:27:34.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9sL43pGKKF3aJPnnVyUx" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T03:42:33.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="icypQkY9a6VGuQ0M-L7x" version="22.1.17" type="github">
   <diagram name="功能模块图" id="UFNNuf7H4DtbvUk9X_Pl">
-    <mxGraphModel dx="1852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3355" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,8 @@
         <mxCell id="AY9KM7Tuy-y02ObjgQoO-65" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;查询商户名称&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="720" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AY9KM7Tuy-y02ObjgQoO-67" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;查询商品信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="730" width="40" height="200" as="geometry" />
+        <mxCell id="AY9KM7Tuy-y02ObjgQoO-67" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;增删改权限校验&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="730" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AY9KM7Tuy-y02ObjgQoO-69" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;修改商品信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="730" width="40" height="200" as="geometry" />
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="AY9KM7Tuy-y02ObjgQoO-72" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;查询商品信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="730" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AY9KM7Tuy-y02ObjgQoO-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新增查询商品信息权限限制&lt;/font&gt;" style="html=1;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="900" y="730" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
