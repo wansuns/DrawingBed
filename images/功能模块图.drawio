@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T00:35:50.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cDObw84TASyi5s1XdMNI" version="22.1.17" type="github">
-  <diagram name="第 1 页" id="UFNNuf7H4DtbvUk9X_Pl">
-    <mxGraphModel dx="1852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-01-10T00:36:40.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tLfnSA3gbvXn7WurC1uM" version="22.1.17" type="github">
+  <diagram name="功能模块图" id="UFNNuf7H4DtbvUk9X_Pl">
+    <mxGraphModel dx="2854" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
